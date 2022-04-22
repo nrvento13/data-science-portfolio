@@ -1,0 +1,2 @@
+INSERT INTO united_states VALUES('US1', 'US', 'Sean', 'Johnson', '1989-05-31', 'United States', '190.5', '97.1', 'New York City FC', 'MLS', 'GK');
+INSERT INTO united_states VALUES('US2', 'US', 'Ethan', 'Horvath', '1995-06-09', 'United States', '190.5', '83.0', 'Nottingham Forest', 'EFL Championship', 'GK');
